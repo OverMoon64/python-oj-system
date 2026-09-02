@@ -2,7 +2,6 @@ from typing import Any
 
 from fastapi import FastAPI
 
-
 app = FastAPI(
     title="Python OJ System",
     description="程序设计训练实验二：在线评测系统",
